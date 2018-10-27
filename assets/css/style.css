@@ -1,0 +1,23 @@
+body {
+    background: url("../images/what-the-hex.png");
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 28px;
+    color: #black;
+}
+
+header {
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    clear: both;
+    float: left;
+    padding: 20px;
+    margin: 10px 10px 10px;
+    background: #ffffff;
+    border: 1px solid black;
+}
